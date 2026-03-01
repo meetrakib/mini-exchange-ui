@@ -1,8 +1,8 @@
 # Mini Exchange UI
 
-Demo **trading UI** for the [mini-derivatives-exchange](https://github.com) API: real-time price chart (Binance OHLC), order book, place/cancel orders, my orders, and my positions. Uses **signup/login** (email + password) so you get a JWT and never type a user ID; the app stores the token and sends it with every API request.
+Demo **trading UI** for the [mini-derivatives-exchange](https://github.com/meetrakib/mini-derivatives-exchange) API: real-time price chart (Binance OHLC), order book, place/cancel orders, my orders, and my positions. Uses **signup/login** (email + password) so you get a JWT and never type a user ID; the app stores the token and sends it with every API request.
 
-Part of the [Gamification & Mini Exchange](https://github.com) ecosystem. The backend lives in **mini-derivatives-exchange** (separate repo).
+Part of the [Gamification](https://github.com/meetrakib/gamification-core) & [Mini Exchange](https://github.com/meetrakib/mini-derivatives-exchange) ecosystem. The backend lives in **mini-derivatives-exchange** (separate repo).
 
 ---
 
